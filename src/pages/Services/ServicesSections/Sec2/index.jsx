@@ -4,7 +4,7 @@ import Right from "./right";
 
 export default function Sec2() {
   return (
-    <section className=" secSome">
+    <section className=" flex flex-wrap w-4/5 mx-auto gap-10 mt-12">
         <Left />
         <Right />
     </section>

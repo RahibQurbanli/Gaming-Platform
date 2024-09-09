@@ -4,7 +4,7 @@ import Main from "./Main";
 
 export default function Sec1() {
   return (
-    <section className="sec1 ">
+    <section >
         <Header />
         <Main/>
     </section>
